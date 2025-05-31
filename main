@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PWKTOTO - Togel Online Terpercaya</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    .logo {
+      max-width: 150px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 36px;
+      margin-bottom: 10px;
+      color: #FFD700;
+    }
+    p {
+      font-size: 18px;
+      margin-bottom: 30px;
+    }
+    .buttons a {
+      display: block;
+      margin: 10px auto;
+      padding: 15px 25px;
+      background-color: #e60000;
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 10px;
+      width: 250px;
+      transition: 0.3s;
+    }
+    .buttons a:hover {
+      background-color: #cc0000;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 14px;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Logo Placeholder -->
+  <img src="https://via.placeholder.com/150x50?text=PWKTOTO" alt="PWKTOTO Logo" class="logo">
+
+  <h1>Selamat Datang di PWKTOTO</h1>
+  <p>Bandar Togel Online Terpercaya Sejak 2025</p>
+  <p>🎁 Bonus New Member | 💸 Garansi Kekalahan Harian</p>
+
+  <div class="buttons">
+    <a href="https://linkr.bio/pwktoto" target="_blank">🎯 Daftar Sekarang</a>
+    <a href="https://t.me/pwktotochannel" target="_blank">📢 Gabung Telegram</a>
+    <a href="https://wa.me/6281234567890" target="_blank">💬 Hubungi WhatsApp</a>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 PWKTOTO. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
